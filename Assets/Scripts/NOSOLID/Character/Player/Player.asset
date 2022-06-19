@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff2877a2b349ad94ca9c4ce6a0a3cb7a, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  eSetType: 0
+  nLV: 1
+  fHP: 100
+  fATK: 10
+  fDEF: 5
+  fSPD: 80
+  fJumpPower: 2000
+  fWeight: 0
+  nExpPoint: 0
+  fMaxEXP: 30
+  visDist: 40
+  visAngle: 60
+  shootDist: 30
+  Atk_Interbal: 5
